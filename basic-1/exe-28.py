@@ -24,10 +24,10 @@ def print_even_until_237(num_list):
     # Iterate through each number in the list
     for num in num_list:
         # If the number 237 is encountered, stop processing
-        if (num == 237):
+        if num == 237:
             break
         # If the number is even, print it
-        if (num % 2 == 0):
+        if num % 2 == 0:
             print(num)
 
 
