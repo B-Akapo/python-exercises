@@ -54,4 +54,4 @@ Python's simplicity, versatility, and strong community support have contributed 
 
 
 ## Exercises Directory
-1. [basic-1](https://github.com/B-Akapo/exercises/tree/main/python-basic-1)
+1. [basic-1](https://github.com/B-Akapo/python-exercises/tree/main/basic-1)
