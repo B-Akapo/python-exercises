@@ -1,5 +1,5 @@
-# Description: Write a Python program that returns True if the two given integer values are equal,
-# or if their sum or difference is 5.
+# Description: Write a Python program that returns True if the two given integer values are equal.
+# If their sum or difference is 5.
 # Date: 16th June 2024
 
 def main():
