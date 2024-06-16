@@ -1,4 +1,4 @@
-# Description: Write a Python program that computes the greatest common divisor (GCD) of two positive integers.
+# Description: Write a Python program that computes the lowest common divisor (LCM) of two positive integers.
 # Date: 16th June 2024
 
 import math
